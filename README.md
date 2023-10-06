@@ -1,7 +1,7 @@
 ![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Coding-Website-Layout.jpg)
 <h1 align="center">Hi 👋, I'm Fikri Sharunazim</h1>
 <h3 align="center">Passionate Data Engineering Student and Tech Enthusiast!</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkrshrnzm&label=Profile%20views&color=0e75b6&style=flat" alt="fkrshrnzm" /> </p>
 
