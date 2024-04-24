@@ -1,15 +1,17 @@
-![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Coding-Website-Layout.jpg)
+<img align="center"  src="Header.png">
 <h1 align="center">Hi 👋, I'm Fikri Sharunazim</h1>
 <h3 align="center">Passionate Data Engineering Student and Tech Enthusiast!</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<h5 align="center">Dynamic Computer Science major (Data Engineering) from Universiti Teknologi Malaysia (UTM) with a passion for Big Data and research. Proven adaptability, responsible leadership as a practicum monitor, and exceptional academic performance. Adept in R&D with a keen eye for detail and a commitment to productivity.</h5>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkrshrnzm&label=Profile%20views&color=0e75b6&style=flat" alt="fkrshrnzm" /> </p>
 
-- 🌱 I’m currently a student at **Universiti Teknologi Malaysia**
-
-- 📫 Personal email **muhdfikri619@gmail.com**
-
-- ⚡ Summary **I am excited to play a part in projects that create real-world value.**
+* My full name is **MUHAMMAD FIKRI BIN SHARUNAZIM**
+* I am **22 years old**
+* I live in **Alor Gajah, Melaka**
+* I am currently a third-year student at **Universiti Teknologi Malaysia, Johor Bahru, Johor**
+* Personal email **muhdfikri619@gmail.com**
+* **I am excited to play a part in projects that create real-world value**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fkrshrnzm&show_icons=true&locale=en" alt="fkrshrnzm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fkrshrnzm&" alt="fkrshrnzm" /></p>
