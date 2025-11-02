@@ -1,17 +1,17 @@
 <img align="center"  src="Header.png">
 <h1 align="center">Hi 👋, I'm Fikri Sharunazim</h1>
-<h3 align="center">Passionate Data Engineering Student and Tech Enthusiast!</h3>
-<h5 align="center">Dynamic Computer Science major (Data Engineering) from Universiti Teknologi Malaysia (UTM) with a passion for Big Data and research. Proven adaptability, responsible leadership as a practicum monitor, and exceptional academic performance. Adept in R&D with a keen eye for detail and a commitment to productivity.</h5>
+<h3 align="center">Aspiring Data Analyst and BI Developer!</h3>
+<h5 align="center">Graduated from Universiti Teknologi Malaysia in a Bachelor of Computer Science (Data Engineering). Proactive and detail-oriented Data Engineering student with a strong passion for Big Data Analytics and Data Visualization. Proficient in Python, SQL, and other programming languages, with a solid foundation in data analysis, web development, and machine learning. Demonstrates adaptability, fast learning ability, and a track record of academic excellence.</h5>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkrshrnzm&label=Profile%20views&color=0e75b6&style=flat" alt="fkrshrnzm" /> </p>
 
 * My full name is **MUHAMMAD FIKRI BIN SHARUNAZIM**
-* I am **22 years old**
-* I live in **Alor Gajah, Melaka**
-* I am currently a third-year student at **Universiti Teknologi Malaysia, Johor Bahru, Johor**
+* I am **23 years old**
+* I live in **Petaling Jaya, Selangor**
+* I am recently graduated from **Universiti Teknologi Malaysia, Johor Bahru, Johor**
 * Personal email **muhdfikri619@gmail.com**
-* **I am excited to play a part in projects that create real-world value**
+* **I am excited to be of your company and contribute my skills and qualifications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
