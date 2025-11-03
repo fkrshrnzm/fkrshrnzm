@@ -121,11 +121,10 @@ Hi there! I’m **Muhammad Fikri Bin Sharunazim**, a **23-year-old recent gradua
 <details>
   <summary><h2>📂My Past Project</h2></summary>
  <p align="left">
-  <a href="https://github.com/mikhaiIy/RehabConnect"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mikhaiIy&repo=RehabConnect&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/mikhaiIy/Appointment-Booking-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mikhaiIy&repo=Appointment-Booking-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/mikhaiIy/Car-Booking-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mikhaiIy&repo=Car-Booking-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/mikhaiIy/Kindergarden-Management-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mikhaiIy&repo=Kindergarden-Management-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-     <a href="https://github.com/mikhaiIy/SDT-Assignment"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mikhaiIy&repo=SDT-Assignment&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/fkrshrnzm/RehabConnect"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=fkrshrnzm&repo=RehabConnect&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/fkrshrnzm/FYPFikri"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=fkrshrnzm&repo=FYPFikri&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/fkrshrnzm/Intellect-Playschool-Management-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=fkrshrnzm&repo=Intellect-Playschool-Management-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+     <a href="https://github.com/fkrshrnzm/Car-Booking-System-SDT-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=fkrshrnzm&repo=Car-Booking-System-SDT-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
   </p>
 </details>
 
