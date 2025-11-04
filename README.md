@@ -1,7 +1,7 @@
 ![Header Animation](Header.gif)
 <h1 align="center">MUHAMMAD FIKRI BIN SHARUNAZIM</h1>
 <h3 align="center">Aspiring Data Analyst and BI Developer!</h3>
-<h5 align="center">Graduated from Universiti Teknologi Malaysia in a Bachelor of Computer Science (Data Engineering). Proactive and detail-oriented Data Engineering student with a strong passion for Big Data Analytics and Data Visualization. Proficient in Python, SQL, and other programming languages, with a solid foundation in data analysis, web development, and machine learning. Demonstrates adaptability, fast learning ability, and a track record of academic excellence.</h5>
+<h5 align="center">Graduated from Universiti Teknologi Malaysia in a Bachelor of Computer Science (Data Engineering) with Honours with CGPA of 3.94. Proactive and detail-oriented Data Engineering student with a strong passion for Big Data Analytics and Data Visualization. Proficient in Python, SQL, and other programming languages, with a solid foundation in data analysis, web development, and machine learning. Demonstrates adaptability, fast learning ability, and a track record of academic excellence.</h5>
 <hr>
 
 <!-- Quotes section -->
