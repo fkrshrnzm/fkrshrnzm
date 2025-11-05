@@ -29,10 +29,11 @@ Hi there! I’m **Muhammad Fikri Bin Sharunazim**, a **23-year-old recent gradua
 <details>
  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
- <h3>🔥 Streak Stats</h3>
+ <!-- <h3>🔥 Streak Stats</h3>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 I am still beginner, don't kecam please" alt="mikhaily's streak" src="https://streak-stats.demolab.com/?user=fkrshrnzm&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 I am still beginner, don't kecam please" alt="fkrshrnzm's streak" src="https://streak-stats.demolab.com/?user=fkrshrnzm&theme=monokai-metallian&hide_border=true"/>
     </a><br></br>
+    -->
 
 <h3>💻 GitHub Profile Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="fkrshrnzm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=fkrshrnzm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
